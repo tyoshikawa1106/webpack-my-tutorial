@@ -11,4 +11,4 @@ $ webpack-dev-server --progress --colors
 ```
 
 ### Access
-http://localhost:8080/webpack-dev-server/bundle
+<a href="http://localhost:8080/webpack-dev-server/bundle">http://localhost:8080/webpack-dev-server/bundle</a>
