@@ -1,14 +1,14 @@
 # webpack-my-tutorial
 
-## webpackコマンド
+### webpackコマンド
 ```
 $ webpack --progress --colors --watch
 ```
 
-## 開発用サーバ
+### 開発用サーバ
 ```
 $ webpack-dev-server --progress --colors
 ```
 
-## Access
+### Access
 http://localhost:8080/webpack-dev-server/bundle
